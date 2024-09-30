@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @carveLTC
+- 👋 Hi, I’m @CarveBTC
 - 👀 I’m interested in making bots
 - 🌱 I’m currently learning how to code things
 - 📫 How to reach me @carveltc on DC
